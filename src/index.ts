@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const { program } = require('commander');
 const options = require('./Options');
 import tasks from './Tasks';
